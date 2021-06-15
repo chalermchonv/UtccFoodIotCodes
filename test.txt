@@ -1,0 +1,5 @@
+msg.headers = 
+{'content-type':'application/x-www-form-urlencoded'
+,'Authorization':'Bearer 9E9sY9jOa1THFt6NI3PkdQ2dXy9pl29fk7Oq4ocNxcA'};
+msg.payload = {"message":"alarm " + msg.payload };
+return msg;
