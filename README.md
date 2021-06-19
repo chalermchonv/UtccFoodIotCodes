@@ -24,3 +24,7 @@ CimonD (ULTIMATE ACCESS Download)
 
 Mssql Express Download
   https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+
+
+https://plc4me.com/download-gx-works2-mitsubishi-plc-software-real-100/
+http://plc4me.com/download-mx-opc-server-6-10-mitsubishi-googledrive/
