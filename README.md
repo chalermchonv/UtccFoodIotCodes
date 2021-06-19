@@ -25,6 +25,9 @@ CimonD (ULTIMATE ACCESS Download)
 Mssql Express Download
   https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 
+Grafana fow windows
+  https://grafana.com/grafana/download?platform=windows
+
 
 https://plc4me.com/download-gx-works2-mitsubishi-plc-software-real-100/
 
