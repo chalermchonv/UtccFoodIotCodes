@@ -1,3 +1,6 @@
+use IotDB
+
+insert into IotDemo (metric,value,machine)
 VALUES
      ('Temperature', FLOOR(RAND()*(25-15+1))+15 , 'm01') 
     ,('Humidity' , FLOOR(RAND()*(90-40+1))+40 , 'm01') 
@@ -8,4 +11,5 @@ VALUES
 go
 insert into IotDemo (metric,value,machine)
 (SELECT 'Temperature' AS [metric] ,FLOOR(RAND()*(25-15+1))+15 AS [value] , 'm01' as [machine])
+
 
