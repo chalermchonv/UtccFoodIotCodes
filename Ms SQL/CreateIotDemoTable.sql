@@ -4,6 +4,6 @@ CREATE TABLE [dbo].[IotDemo] (
 	[metric] [varchar](20) NULL,
 	[value] [int] NULL,
 	[machine]  [varchar](20) NULL,
-	[dbtime] [datetime] NULL DEFAULT (getdate()),
+	[dbtime] [datetime] NULL DEFAULT (getdate())
 ) ON [PRIMARY]
 GO
